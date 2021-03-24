@@ -1,0 +1,13 @@
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\bin\Debug\zadanie2_Myasnikov.exe.config
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\bin\Debug\zadanie2_Myasnikov.exe
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\bin\Debug\zadanie2_Myasnikov.pdb
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\obj\Debug\zadanie2_Myasnikov.Form1.resources
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\obj\Debug\zadanie2_Myasnikov.Properties.Resources.resources
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\obj\Debug\zadanie2_Myasnikov.csproj.GenerateResource.cache
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\obj\Debug\zadanie2_Myasnikov.exe
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\obj\Debug\zadanie2_Myasnikov.pdb
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\bin\Debug\DSR.docx
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\obj\Debug\zadanie2_Myasnikov.csproj.ResolveComReference.cache
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\obj\Debug\zadanie2_Myasnikov.csprojAssemblyReference.cache
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\obj\Debug\zadanie2_Myasnikov.Form2.resources
+C:\Users\Юзверь\source\repos\zadanie2_Myasnikov\zadanie2_Myasnikov\obj\Debug\zadanie2_Myasnikov.Form3.resources
