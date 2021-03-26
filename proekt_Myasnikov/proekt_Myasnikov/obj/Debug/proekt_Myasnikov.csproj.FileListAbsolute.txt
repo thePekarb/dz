@@ -1,0 +1,7 @@
+C:\Users\Юзверь\source\repos\proekt_Myasnikov\proekt_Myasnikov\obj\Debug\proekt_Myasnikov.csprojAssemblyReference.cache
+C:\Users\Юзверь\source\repos\proekt_Myasnikov\proekt_Myasnikov\obj\Debug\proekt_Myasnikov.csproj.ResolveComReference.cache
+C:\Users\Юзверь\source\repos\proekt_Myasnikov\proekt_Myasnikov\obj\Debug\zadanie2_Myasnikov.Form1.resources
+C:\Users\Юзверь\source\repos\proekt_Myasnikov\proekt_Myasnikov\obj\Debug\proekt_Myasnikov.Form2.resources
+C:\Users\Юзверь\source\repos\proekt_Myasnikov\proekt_Myasnikov\obj\Debug\proekt_Myasnikov.Properties.Resources.resources
+C:\Users\Юзверь\source\repos\proekt_Myasnikov\proekt_Myasnikov\obj\Debug\proekt_Myasnikov.csproj.GenerateResource.cache
+C:\Users\Юзверь\source\repos\proekt_Myasnikov\proekt_Myasnikov\obj\Debug\proekt_Myasnikov.Form3.resources
